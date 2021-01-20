@@ -21,3 +21,5 @@ Suggests:
     devtools,
     DeSeq2
 VignetteBuilder: knitr
+URL: https://github.com/tkik/intro.R
+BugReports: https://github.com/tkik/intro.R/issues
