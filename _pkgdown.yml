@@ -15,6 +15,6 @@ navbar:
       - text: Data types, exercises
         href: articles/data_types_exercises.html
       - text: Control structures, exercises
-        href: articles/exercises_contrl.html
+        href: articles/exercises_control.html
       - text: Funtions, exercises
         href: articles/functions_exercises.html

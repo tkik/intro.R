@@ -1,0 +1,14 @@
+pandoc: 2.7.3
+pkgdown: 1.6.1
+pkgdown_sha: ~
+articles:
+  basic_functions: basic_functions.html
+  data_types_exercises: data_types_exercises.html
+  data_types_exercises_solutions: data_types_exercises_solutions.html
+  exercises_control: exercises_control.html
+  functions_exercises: functions_exercises.html
+  intro: intro.html
+  references: references.html
+  R_data_types: R_data_types.html
+last_built: 2021-01-21T09:06Z
+
