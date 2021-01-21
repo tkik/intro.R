@@ -1,8 +1,8 @@
 ---
-title: "Data types, exercises"
+title: "Data types, solutions"
 output: rmarkdown::html_vignette
 vignette: >
-  %\VignetteIndexEntry{Data types, exercises}
+  %\VignetteIndexEntry{Data types, solutions}
   %\VignetteEngine{knitr::rmarkdown}
   %\VignetteEncoding{UTF-8}
 ---

@@ -1,0 +1,20 @@
+navbar:
+  structure:
+    left:
+    - home
+    - articles
+    right: github
+  components:
+    articles:
+      text: Articles
+      menu:
+      - text: Introduction
+        href: articles/intro.html
+      - text: R data types
+        href: articles/R_data_types.html
+      - text: Data types, exercises
+        href: articles/data_types_exercises.html
+      - text: Control structures, exercises
+        href: articles/exercises_contrl.html
+      - text: Funtions, exercises
+        href: articles/functions_exercises.html

@@ -1,5 +1,5 @@
 ---
-title: "Course introduction"
+title: "1. Course introduction"
 output: rmarkdown::html_vignette
 vignette: >
   %\VignetteIndexEntry{Course introduction}
@@ -18,7 +18,6 @@ knitr::opts_chunk$set(
 library(intro.R)
 ```
 
-# R introductory course
 
 
 
