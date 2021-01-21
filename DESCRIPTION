@@ -19,7 +19,7 @@ Suggests:
     tidyverse,
     workflowr,
     devtools,
-    DeSeq2
+    DESeq2
 VignetteBuilder: knitr
 URL: https://github.com/tkik/intro.R
 BugReports: https://github.com/tkik/intro.R/issues
